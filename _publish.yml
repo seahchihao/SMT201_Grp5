@@ -1,0 +1,4 @@
+- source: SMT201_Grp5.qmd
+  netlify:
+    - id: 27be4361-fc63-4755-aad2-affd493202a7
+      url: 'https://https://smt201-grp5-ay2023-24t1.netlify.app'

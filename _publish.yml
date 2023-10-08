@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 597e0aa3-2328-4184-a37a-914751ff2a35
+      url: 'https://capable-medovik-98a8fe.netlify.app'

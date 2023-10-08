@@ -7,6 +7,13 @@
     "text": "TEST?"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SMT201_Grp5",
+    "section": "",
+    "text": "TEST?"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,5 +26,19 @@
     "title": "About",
     "section": "",
     "text": "We love SMT and GIS"
+  },
+  {
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "SMT201_Grp5",
+    "section": "",
+    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️"
+  },
+  {
+    "objectID": "Home.html#smt201-grp5",
+    "href": "Home.html#smt201-grp5",
+    "title": "SMT201_Grp5",
+    "section": "",
+    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️"
   }
 ]

@@ -1,0 +1,8 @@
+name: "SMT_Grp5"
+navbar:
+  title: "SMT_Grp5"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html

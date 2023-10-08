@@ -1,4 +1,18 @@
 project:
-  title: "SMT201_Grp5"
+  type: website
 
-editor: visual
+website:
+  title: "SMT201_Grp5"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - more.qmd
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+

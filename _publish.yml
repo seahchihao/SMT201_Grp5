@@ -1,4 +1,4 @@
-- source: SMT201_Grp5.qmd
+- source: project
   netlify:
-    - id: 27be4361-fc63-4755-aad2-affd493202a7
-      url: 'https://https://smt201-grp5-ay2023-24t1.netlify.app'
+    - id: 4e13e4c2-ecec-4ebc-b9c6-d6b23414afc0
+      url: 'https://euphonious-narwhal-851f3b.netlify.app'

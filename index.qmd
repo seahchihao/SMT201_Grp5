@@ -4,4 +4,4 @@ title: "PROJECT NAME"
 
 pic and summary? // might remove overview page + context/setting the scene
 
-![Donate to me thnks](pictures/paynow.jpg)
+![Donate to me thnks](pictures/paynow.jpg){width=50%}

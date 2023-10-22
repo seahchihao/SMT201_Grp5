@@ -1,11 +1,7 @@
-## SMT201 Grp5
+## Overview
 
-This is website is still under construction! Come back again in a few weeks!
+# Context
 
-WE LOVE SMT and GIS!
+# Summary of report
 
-❤️❤️❤️\
-\
-Hello testing!
-
-hello this is another test
+(to include "A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings")

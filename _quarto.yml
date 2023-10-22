@@ -7,6 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - proposal.qmd
+      - methodology.qmd
+      - results.qmd
+      - lessons.qmd
       - about.qmd
       - more.qmd
 

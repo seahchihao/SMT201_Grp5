@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PROJECT NAME",
     "section": "",
-    "text": "pic and summary? // might remove overview page"
+    "text": "pic and summary? // might remove overview page + context/setting the scene"
   },
   {
     "objectID": "overview.html#summary-of-report",
@@ -61,5 +61,12 @@
     "title": "More",
     "section": "",
     "text": "put bts, memes and some stuff about us here also"
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "(to include “A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings”)"
   }
 ]

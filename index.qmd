@@ -2,4 +2,4 @@
 title: "PROJECT NAME"
 ---
 
-pic and summary? // might remove overview page
+pic and summary? // might remove overview page + context/setting the scene

@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-We love SMT and GIS
-
-Hello test again!

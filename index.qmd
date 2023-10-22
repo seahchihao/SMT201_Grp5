@@ -1,7 +1,5 @@
-## Overview
+---
+title: "PROJECT NAME"
+---
 
-# Context
-
-# Summary of report
-
-(to include "A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings")
+pic and summary? // might remove overview page

@@ -1,80 +1,17 @@
 [
   {
-    "objectID": "SMT201_Grp5.html",
-    "href": "SMT201_Grp5.html",
-    "title": "SMT201_Grp5",
-    "section": "",
-    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️"
-  },
-  {
-    "objectID": "SMT201_Grp5.html#smt201-grp5",
-    "href": "SMT201_Grp5.html#smt201-grp5",
-    "title": "SMT201_Grp5",
-    "section": "",
-    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SMT201_Grp5",
+    "title": "PROJECT NAME",
     "section": "",
-    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️\n\nHello testing!\nhello this is another test"
+    "text": "pic and summary? // might remove overview page"
   },
   {
-    "objectID": "index.html#smt201-grp5",
-    "href": "index.html#smt201-grp5",
-    "title": "SMT201_Grp5",
-    "section": "",
-    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️\n\nHello testing!\nhello this is another test"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "We love SMT and GIS\nHello test again!"
-  },
-  {
-    "objectID": "about.html#smt201-grp5",
-    "href": "about.html#smt201-grp5",
-    "title": "About",
-    "section": "",
-    "text": "We love SMT and GIS"
-  },
-  {
-    "objectID": "Home.html",
-    "href": "Home.html",
-    "title": "SMT201_Grp5",
-    "section": "",
-    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️"
-  },
-  {
-    "objectID": "Home.html#smt201-grp5",
-    "href": "Home.html#smt201-grp5",
-    "title": "SMT201_Grp5",
-    "section": "",
-    "text": "This is website is still under construction! Come back again in a few weeks!\nWE LOVE SMT and GIS!\n❤️❤️❤️"
-  },
-  {
-    "objectID": "more.html",
-    "href": "more.html",
-    "title": "More",
-    "section": "",
-    "text": "put bts, memes and some stuff"
-  },
-  {
-    "objectID": "more.html#more-coming-soon",
-    "href": "more.html#more-coming-soon",
-    "title": "More",
-    "section": "",
-    "text": "put bts, memes and some stuff"
-  },
-  {
-    "objectID": "results.html#analysis-discussion",
-    "href": "results.html#analysis-discussion",
-    "title": "Results and Discussion",
-    "section": "analysis & discussion??",
-    "text": "analysis & discussion??"
+    "objectID": "overview.html#summary-of-report",
+    "href": "overview.html#summary-of-report",
+    "title": "Overview",
+    "section": "Summary of report",
+    "text": "Summary of report\n(to include “A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings”)"
   },
   {
     "objectID": "proposal.html#project-objective",
@@ -103,5 +40,26 @@
     "title": "Project Proposal",
     "section": "Project schedule",
     "text": "Project schedule"
+  },
+  {
+    "objectID": "results.html#analysis-discussion",
+    "href": "results.html#analysis-discussion",
+    "title": "Results and Discussion",
+    "section": "analysis & discussion??",
+    "text": "analysis & discussion??"
+  },
+  {
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "More",
+    "section": "",
+    "text": "put bts, memes and some stuff about us here also"
+  },
+  {
+    "objectID": "more.html#more-coming-soon",
+    "href": "more.html#more-coming-soon",
+    "title": "More",
+    "section": "",
+    "text": "put bts, memes and some stuff about us here also"
   }
 ]

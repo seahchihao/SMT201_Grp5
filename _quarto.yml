@@ -5,7 +5,7 @@ website:
   title: "SMT201_Grp5"
   navbar:
     left:
-      - href: index.qmd
+      - overview.qmd
       - proposal.qmd
       - methodology.qmd
       - results.qmd

@@ -1,6 +1,7 @@
 ---
 title: "Project Proposal"
 ---
+___
 
 ### Motivation of project
 
@@ -14,10 +15,18 @@ Based on our motivation, we have 3 main objective for our project:
 
 2. To find out how disaster-proof are the facilities.
 
-3. To determine why death and missing toll is high. (Due to accessibility or other factor)
+3. To determine why death and missing toll is high. (Due to accessibility or other factors?)
 
-## Data
+### Data
 
-## Scope of work
+- [OSM Libya](https://download.geofabrik.de/africa/libya.html) from Geofabrik
+- [Libya Floods](https://data.humdata.org/event/f1c3a777-4079-49fb-9d64-12a72f46f1e3) at Humanitarian Data Exchange portal
+  - [Libya Health Facilities](https://data.humdata.org/dataset/hotosm_lby_health_facilities)
+  - [Location of Dams](https://data.humdata.org/dataset/dam-locations-east-libya)
+  - [Libya Buildings Footprint](https://data.humdata.org/dataset/buildings-footprint-floods-derna-libya)
+  - [Libya - 250m hexagonal grid and grid centres over city of Derna](https://data.humdata.org/dataset/250m-hexagonal-gird-over-city-of-derna)
+  - **more data dk yet**
 
-## Project schedule
+### Scope of work
+
+### Project schedule

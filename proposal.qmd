@@ -2,9 +2,19 @@
 title: "Project Proposal"
 ---
 
-## Motivation of project
+### Motivation of project
 
-## Project objective
+In the recent collapse of the Derna dam, there was a shocking amount of death and missing toll due to the flood. We decided to analyse and assess the accessibility of Derna City's evacuation centres and medical services to gather some insights.
+
+### Project objective
+
+Based on our motivation, we have 3 main objective for our project:
+
+1. To find out the accessibility of Derna city's evacuation centres and medical services.
+
+2. To find out how disaster-proof are the facilities.
+
+3. To determine why death and missing toll is high. (Due to accessibility or other factor)
 
 ## Data
 

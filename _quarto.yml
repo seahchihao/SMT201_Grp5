@@ -4,6 +4,7 @@ project:
 website:
   favicon: "/pictures/logo_bg.png"
   navbar:
+    logo: "/pictures/logo_no_bg.png"
     title: "Derna EvacuConnect" 
     left:
       - overview.qmd

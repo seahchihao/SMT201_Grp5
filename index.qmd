@@ -2,8 +2,8 @@
 title: "Derna EvacuConnect"
 ---
 
-pic and summary? // might remove overview page + context/setting the scene
-
 ![](/pictures/logo_bg.png){fig-align="left" width=25%}
 
 YO HELP WE DK WHAT TO DO!
+
+(to include "A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings") + context/setting the scene

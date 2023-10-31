@@ -4,6 +4,7 @@ project:
 website:
   title: "Derna EvacuConnect"
   navbar:
+    logo: (pictures\logo.jpg)
     left:
       - overview.qmd
       - proposal.qmd

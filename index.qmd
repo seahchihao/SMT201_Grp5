@@ -1,7 +1,9 @@
 ---
-title: "PROJECT NAME"
+title: "Derna EvacuConnect"
 ---
 
 pic and summary? // might remove overview page + context/setting the scene
 
-![Donate to me thnks](pictures/paynow.jpg){width=50%}
+![](/pictures/logo_bg.png){fig-align="left" width=25%}
+
+YO HELP WE DK WHAT TO DO!

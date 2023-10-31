@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Derna EvacuConnect"
+  favicon: "/pictures/logo_bg.png"
   navbar:
-    logo: "/pictures/logo.png"
+    title: "Derna EvacuConnect" 
     left:
       - overview.qmd
       - proposal.qmd

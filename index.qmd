@@ -2,7 +2,7 @@
 title: "Derna EvacuConnect"
 ---
 
-![](/pictures/logo_bg.png){fig-align="left" width=25%}
+![](/pictures/logo_bg.png){fig-align="left" width=40%}
 
 YO HELP WE DK WHAT TO DO!
 

@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  favicon: "/pictures/logo.png"
+  favicon: "/pictures/favicon.png"
   navbar:
     logo: "/pictures/prof.png"
     title: "Derna EvacuConnect" 

@@ -11,7 +11,7 @@ Connect with us on LinkedIn (by clicking on our faces😊):
 
 <p style="text-align: center;">
 [![](/pictures/chihao.png){width=25%}](https://www.linkedin.com/in/seahchihao)
-![](/pictures/marcus.png){width=25%}
+[![](/pictures/marcus.png){width=25%}](https://www.linkedin.com/in/marcus-tan01)
 [![](/pictures/wilfred.png){width=25%}](https://www.linkedin.com/in/limziyuanwilfred/)
 </p>
 

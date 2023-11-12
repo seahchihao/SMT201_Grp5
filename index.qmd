@@ -22,6 +22,8 @@ Storm Daniel, the deadliest Medicane in history, pushed two dams in the Derna di
 
 The result? A massive flood that led to large-scale damage and destruction of buildings & infrastructure & thousands of casualties 
 
+Below shows the before and after of the flood.
+
 ```{=html}
 <script
   defer

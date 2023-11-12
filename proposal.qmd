@@ -26,11 +26,21 @@ Based on our motivation, we have 2 main objective for our project:
   - [Libya - 250m hexagonal grid and grid centres over city of Derna](https://data.humdata.org/dataset/250m-hexagonal-gird-over-city-of-derna)
   - [Flood impact assessment in Derna City, East Province, Libya](https://data.humdata.org/dataset/flood-impact-assessment-in-derna-city-east-province-libya)
 - [OpenAerialMap](https://openaerialmap.org/)
-  - [Pre-flood](https://map.openaerialmap.org/#/22.67578125,32.697177359290635,8/square/1221022202/6502b83e0906de000167e696?_k=baen2a)
-  - [Post-flood](https://map.openaerialmap.org/#/22.67578125,32.697177359290635,8/square/1221022202/65029d220906de000167e685?_k=tourdg)
+  - [Pre-flood Satellite Imagery](https://map.openaerialmap.org/#/22.67578125,32.697177359290635,8/square/1221022202/6502b83e0906de000167e696?_k=baen2a)
+  - [Post-flood Satellite Imagery](https://map.openaerialmap.org/#/22.67578125,32.697177359290635,8/square/1221022202/65029d220906de000167e685?_k=tourdg)
 
 ### Scope of work
 
 **HELP**
+
+
+- Selection of project focus and conducting literature review.
+- Preparing proposal and project website.
+- Data collection, extraction, integration, transformation and wrangling.
+- Designing and building GIS model and database.
+- Performing GIS analysis.
+- Preparing poster and project webpage.
+
+^ from prof (idk do we add on more description?)
 
 ### Project schedule

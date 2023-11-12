@@ -99,11 +99,11 @@ Evacuation Centres & Medical facilities exist to mitigate its impact, yet any di
     - Layers are clipped to the study area & saved with the correct **Libyan Projected Coordinates System** ***(EPSG:3197)***.\
     - Centroids for Buildings, Evacuation Centres and Medical Facilities are created. 
 
-2. Accessibility Analysis
+2. **Accessibility Analysis**
 
     - [QNEAT3 Plugin](https://root676.github.io/) in QGIS, Network Analysis Toolbox utility [Iso-Areas as Polygons](https://root676.github.io/IsoAreaAlgs.html) (from Layer) are used to measure the accessibility of buildings to the Evacuation Centres & Medical Facilities.
 
-3. Visualising Data
+3. **Visualising Data**
 
     - To easily visualise accessibility, categorised  polygons with color ramps representing accessibility were created. 
     - We also used various [geoprocessing tools](https://docs.qgis.org/2.18/en/docs/user_manual/processing/vector_menu.html#geoprocessing-tools) like merge and dissolve, to group common data together for a more comprehensive finding.

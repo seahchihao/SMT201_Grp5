@@ -1,7 +1,215 @@
 ---
 title: "Results and Discussion"
+format: html
 ---
 
 ## Results
 
-## analysis & discussion??
+
+
+## analysis & discussion?? ![](/pictures/NorthArrow.png){width=5%}
+
+```{=html}
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+
+<style>
+  .before,
+  .after {
+    margin: 0;
+  }
+
+  .before figcaption,
+  .after figcaption {
+    background: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 12px;
+    color: #2e3452;
+    opacity: 0.8;
+    padding: 12px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 100%;
+  }
+
+  .before figcaption {
+    left: 12px;
+  }
+
+  .after figcaption {
+    right: 12px;
+  }
+</style>
+<img-comparison-slider hover="hover">
+  <figure slot="first" class="before">
+    <img width="100%" src="/pictures/Pre-flood roads (Whole Derna).png">
+    <figcaption>Pre-flood</figcaption>
+  </figure>
+  <figure slot="second" class="after">
+    <img width="100%" src="/pictures/Post-flood roads (Whole Derna).png">
+    <figcaption>Post-flood</figcaption>
+  </figure>
+</img-comparison-slider>
+```
+
+
+```{=html}
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+
+<style>
+  .before,
+  .after {
+    margin: 0;
+  }
+
+  .before figcaption,
+  .after figcaption {
+    background: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 12px;
+    color: #2e3452;
+    opacity: 0.8;
+    padding: 12px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 100%;
+  }
+
+  .before figcaption {
+    left: 12px;
+  }
+
+  .after figcaption {
+    right: 12px;
+  }
+</style>
+<img-comparison-slider hover="hover">
+  <figure slot="first" class="before">
+    <img width="100%" src="/pictures/Pre-flood buildings (Whole Derna).png">
+    <figcaption>Pre-flood</figcaption>
+  </figure>
+  <figure slot="second" class="after">
+    <img width="100%" src="/pictures/Post-flood buildings (Whole Derna).png">
+    <figcaption>Post-flood</figcaption>
+  </figure>
+</img-comparison-slider>
+```
+
+
+
+```{=html}
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+
+<style>
+  .before,
+  .after {
+    margin: 0;
+  }
+
+  .before figcaption,
+  .after figcaption {
+    background: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 12px;
+    color: #2e3452;
+    opacity: 0.8;
+    padding: 12px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 100%;
+  }
+
+  .before figcaption {
+    left: 12px;
+  }
+
+  .after figcaption {
+    right: 12px;
+  }
+</style>
+<img-comparison-slider hover="hover">
+  <figure slot="first" class="before">
+    <img width="100%" src="/pictures/Pre-flood Evac (Whole Derna).png">
+    <figcaption>Pre-flood</figcaption>
+  </figure>
+  <figure slot="second" class="after">
+    <img width="100%" src="/pictures/Post-flood Evac (Whole Derna).png">
+    <figcaption>Post-flood</figcaption>
+  </figure>
+</img-comparison-slider>
+```
+
+
+
+```{=html}
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+
+<style>
+  .before,
+  .after {
+    margin: 0;
+  }
+
+  .before figcaption,
+  .after figcaption {
+    background: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 12px;
+    color: #2e3452;
+    opacity: 0.8;
+    padding: 12px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 100%;
+  }
+
+  .before figcaption {
+    left: 12px;
+  }
+
+  .after figcaption {
+    right: 12px;
+  }
+</style>
+<img-comparison-slider hover="hover">
+  <figure slot="first" class="before">
+    <img width="100%" src="/pictures/Pre-flood medical (Whole Derna).png">
+    <figcaption>Pre-flood</figcaption>
+  </figure>
+  <figure slot="second" class="after">
+    <img width="100%" src="/pictures/Post-flood medical (Whole Derna).png">
+    <figcaption>Post-flood</figcaption>
+  </figure>
+</img-comparison-slider>
+```

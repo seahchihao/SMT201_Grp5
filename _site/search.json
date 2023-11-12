@@ -45,8 +45,8 @@
     "objectID": "results.html#analysis-discussion",
     "href": "results.html#analysis-discussion",
     "title": "Results and Discussion",
-    "section": "analysis & discussion??",
-    "text": "analysis & discussion??"
+    "section": "analysis & discussion?? ",
+    "text": "analysis & discussion?? \n\n\n\n\n\n  \n    \n    Pre-flood\n  \n  \n    \n    Post-flood\n  \n\n\n\n\n\n\n  \n    \n    Pre-flood\n  \n  \n    \n    Post-flood\n  \n\n\n\n\n\n\n  \n    \n    Pre-flood\n  \n  \n    \n    Post-flood\n  \n\n\n\n\n\n\n  \n    \n    Pre-flood\n  \n  \n    \n    Post-flood"
   },
   {
     "objectID": "more.html",
@@ -124,5 +124,12 @@
     "title": "SMT201 Group 5",
     "section": "",
     "text": "Data Preparation\n\nBuildings are used as an approximation of Derna’s Residences in the network analysis.\n\nRelevant Flood extent, Buildings, Roads, Evacuation Centres & Medical Facilities data are extracted.\n\nData Pre- & Post-Flooding are verified through high-resolution satellite images.\n\nLayers are clipped to the study area & saved with the correct Libyan Projected Coordinates System (EPSG:3197).\n\nCentroids for Buildings, Evacuation Centres and Medical Facilities are created.\n\nAccessibility Analysis\n\nQNEAT3 Plugin in QGIS, Network Analysis Toolbox utility Iso-Areas as Polygons (from Layer) are used to measure the accessibility of buildings to the Evacuation Centres & Medical Facilities.\n\nVisualising Data\n\nTo easily visualise accessibility, categorised polygons with color ramps representing accessibility were created.\nWe also used various geoprocessing tools like merge and dissolve, to group common data together for a more comprehensive finding."
+  },
+  {
+    "objectID": "results.html#analysis-discussion-picturesnortharrow.png",
+    "href": "results.html#analysis-discussion-picturesnortharrow.png",
+    "title": "Results and Discussion",
+    "section": "analysis & discussion?? []!(/pictures/NorthArrow.png)",
+    "text": "analysis & discussion?? []!(/pictures/NorthArrow.png)\n\n\n\n\n\n  \n    \n    Pre-flood\n  \n  \n    \n    Post-flood\n  \n\n\n\n\n\n\n  \n    \n    Pre-flood\n  \n  \n    \n    Post-flood"
   }
 ]

@@ -11,9 +11,14 @@ website:
         href: index.qmd
       - proposal.qmd
       - methodology.qmd
-      - results.qmd
-      - lessons.qmd
-      - more.qmd
+      - text: Results & Discussion
+        href: results.qmd
+      - text: Poster
+        href: poster.qmd
+      - report.qmd
+      - text: Lessons & Reflections
+        href: lessons.qmd
+      - about.qmd
 
 format:
   html:

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Derna EvacuConnect",
+    "title": "SMT201 Group 5",
     "section": "",
-    "text": "YO HELP WE DK WHAT TO DO!\n(to include “A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings”) + context/setting the scene\nHi prof! if you are seeing this :) if you not prof pls leave this page NOW! and come back on 14th Nov for our excellent project! :) (we thank you for showing interest in our project but we are still updating the site, appreciate your kind patience)"
+    "text": "Welcome to Derna EvacuConnect!\nThe project revolves around the theme of GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services of Derna City, Libya. More specifically pre- and post-flood caused by Storm Daniel on Sunday 10 September 2023.\n\n\n10 September 2023\nStorm Daniel, the deadliest Medicane in history, pushed two dams in the Derna district of Libya to their limits, causing them to collapse.\nThe result? A massive flood that led to large-scale damage and destruction of buildings & infrastructure & thousands of casualties\n\n\n\n\n\n  \n    \n    Before\n  \n  \n    \n    After\n  \n\n\n\n\n\n\nCasualty from disasters are tragic.\nEvacuation Centres & Medical facilities exist to mitigate its impact, yet any disaster has the potential to reduce their effectiveness.\n\n\n\nTo prevent further loss of life, our analysis seeks to find out:\n              How Disaster-Proof & Accessible are Derna’s Evacuation Centres & Medical Facilities?\n\n\n\n\n\nData Preparation\n\nBuildings are used as an approximation of Derna’s Residences in the network analysis.\n\nRelevant Flood extent, Buildings, Roads, Evacuation Centres & Medical Facilities data are extracted.\n\nData Pre- & Post-Flooding are verified through high-resolution satellite images.\n\nLayers are clipped to the study area & saved with the correct Libyan Projected Coordinates System (EPSG:3197).\n\nCentroids for Buildings, Evacuation Centres and Medical Facilities are created.\n\nAccessibility Analysis\n\nQNEAT3 Plugin in QGIS, Network Analysis Toolbox utility Iso-Areas as Polygons (from Layer) are used to measure the accessibility of buildings to the Evacuation Centres & Medical Facilities.\n\nVisualising Data\n\nTo easily visualise accessibility, categorised polygons with color ramps representing accessibility were created.\nWe also used various geoprocessing tools like merge and dissolve, to group common data together for a more comprehensive finding.\n\n\n\n\n\nDerna’s Evacuation Centres & Medical Facilities are not very diaster-proof and accessibility decreases by a huge proportion even though only a small area of Derna City was destroyed by Storm Daniel.\nFind out more in our poster and/or report!"
   },
   {
     "objectID": "overview.html#summary-of-report",
@@ -75,5 +75,54 @@
     "title": "Project Proposal",
     "section": "",
     "text": "Motivation of project\nIn the recent collapse of the Derna dam following intense rainfall, there was a high casualty count in the city of Derna due to a major flood. We decided to analyse and assess the accessibility of Derna City’s evacuation centres and medical services to evaluate the changes in the extent of such facilities effectiveness in rendering aid and medical services in an aftermath of a disaster such as the flood.\n\n\nProject objective\nBased on our motivation, we have 3 main objective for our project:\n\nTo find out the accessibility of Derna city’s evacuation centres and medical services.\nTo find out how disaster-proof the accessibility to the evacuation centres and medical services are.\nTo determine if accessibility of these facilities are the main cause of high death and missing toll.\n\n\n\nData\n\nOSM Libya from Geofabrik\nLibya Floods at Humanitarian Data Exchange portal\n\nLibya Health Facilities\nLocation of Dams\nLibya Buildings Footprint\nLibya - 250m hexagonal grid and grid centres over city of Derna\nmore data dk yet\n\n\n\n\nScope of work\n\n\nProject schedule"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are a group of three Year 2 Information Systems students from Singapore Management University (SMU) majoring in Smart City Management and Technology (SMT).\nIn this website, we discuss about our work done and insights gained from the project!\nAccess our GitHub Repository here: GitHub.\nConnect with us on LinkedIn (by clicking on our faces😊):\n\n  \n\nThis whole project wouldn’t be possible if not for the guidance and mentoring by the one and only Prof. Kam Tin Seong."
+  },
+  {
+    "objectID": "about.html#more-coming-soon",
+    "href": "about.html#more-coming-soon",
+    "title": "About",
+    "section": "",
+    "text": "HELLO"
+  },
+  {
+    "objectID": "poster.html",
+    "href": "poster.html",
+    "title": "Poster",
+    "section": "",
+    "text": "Poster"
+  },
+  {
+    "objectID": "index.html#some-context",
+    "href": "index.html#some-context",
+    "title": "SMT201 Group 5",
+    "section": "",
+    "text": "10 September 2023\nStorm Daniel, the deadliest Medicane in history, pushed two dams in the Derna district of Libya to their limits, causing them to collapse.\nThe result? A massive flood that led to large-scale damage and destruction of buildings & infrastructure & thousands of casualties\n\n\n\n\n\n  \n    \n    Before\n  \n  \n    \n    After"
+  },
+  {
+    "objectID": "index.html#motivation-objectives",
+    "href": "index.html#motivation-objectives",
+    "title": "SMT201 Group 5",
+    "section": "",
+    "text": "Casualty from disasters are tragic.\nEvacuation Centres & Medical facilities exist to mitigate its impact, yet any disaster has the potential to reduce their effectiveness.\n\n\n\nTo prevent further loss of life, our analysis seeks to find out:\n              How Disaster-Proof & Accessible are Derna’s Evacuation Centres & Medical Facilities?"
+  },
+  {
+    "objectID": "index.html#key-findings",
+    "href": "index.html#key-findings",
+    "title": "SMT201 Group 5",
+    "section": "",
+    "text": "Derna’s Evacuation Centres & Medical Facilities are not very diaster-proof and accessibility decreases by a huge proportion even though only a small area of Derna City was destroyed by Storm Daniel.\nFind out more in our poster and/or report!"
+  },
+  {
+    "objectID": "index.html#methodology",
+    "href": "index.html#methodology",
+    "title": "SMT201 Group 5",
+    "section": "",
+    "text": "Data Preparation\n\nBuildings are used as an approximation of Derna’s Residences in the network analysis.\n\nRelevant Flood extent, Buildings, Roads, Evacuation Centres & Medical Facilities data are extracted.\n\nData Pre- & Post-Flooding are verified through high-resolution satellite images.\n\nLayers are clipped to the study area & saved with the correct Libyan Projected Coordinates System (EPSG:3197).\n\nCentroids for Buildings, Evacuation Centres and Medical Facilities are created.\n\nAccessibility Analysis\n\nQNEAT3 Plugin in QGIS, Network Analysis Toolbox utility Iso-Areas as Polygons (from Layer) are used to measure the accessibility of buildings to the Evacuation Centres & Medical Facilities.\n\nVisualising Data\n\nTo easily visualise accessibility, categorised polygons with color ramps representing accessibility were created.\nWe also used various geoprocessing tools like merge and dissolve, to group common data together for a more comprehensive finding."
   }
 ]

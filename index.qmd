@@ -1,14 +1,110 @@
 ---
-title: "Derna EvacuConnect"
+title: "SMT201 Group 5"
+date-modified: last-modified
+language: 
+  title-block-modified: "LAST MODIFIFED DATE"
+format: html
+css: styles.css
 ---
 
-![](/pictures/logo.png){fig-align="left" width=40%}
+# Derna EvacuConnect {.test}
 
-YO HELP WE DK WHAT TO DO!
+![](/pictures/logo.png){fig-align="center" width=45%}
 
-(to include "A short description of not more than 350 words summarising the motivation, objectives, methodology and key findings") + context/setting the scene
+Welcome to Derna EvacuConnect!\
+The project revolves around the theme of GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services of Derna City, Libya. More specifically pre- and post-flood caused by Storm Daniel on Sunday 10 September 2023.
 
-Hi prof! if you are seeing this :)
-if you not prof pls leave this page NOW!
-and come back on 14th Nov for our excellent project! :) 
-(we thank you for showing interest in our project but we are still updating the site, appreciate your kind patience)
+## Some Context
+
+*10 September 2023*
+
+Storm Daniel, the deadliest Medicane in history, pushed two dams in the Derna district of Libya to their limits, causing them to collapse. 
+
+The result? A massive flood that led to large-scale damage and destruction of buildings & infrastructure & thousands of casualties 
+
+```{=html}
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+/>
+
+<style>
+  .before,
+  .after {
+    margin: 0;
+  }
+
+  .before figcaption,
+  .after figcaption {
+    background: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 12px;
+    color: #2e3452;
+    opacity: 0.8;
+    padding: 12px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 100%;
+  }
+
+  .before figcaption {
+    left: 12px;
+  }
+
+  .after figcaption {
+    right: 12px;
+  }
+</style>
+<img-comparison-slider hover="hover">
+  <figure slot="first" class="before">
+    <img width="100%" src="/pictures/preflood.png">
+    <figcaption>Before</figcaption>
+  </figure>
+  <figure slot="second" class="after">
+    <img width="100%" src="/pictures/postflood.png">
+    <figcaption>After</figcaption>
+  </figure>
+</img-comparison-slider>
+```
+
+## Motivation & Objectives
+
+### Motivation
+
+Casualty from disasters are tragic. \
+Evacuation Centres & Medical facilities exist to mitigate its impact, yet any disaster has the potential to reduce their effectiveness. 
+
+### Objectives
+
+| To prevent further loss of life, our analysis seeks to find out:
+|               How **Disaster-Proof** & **Accessible** are Derna’s Evacuation Centres & Medical Facilities?
+
+## Methodology
+
+1. **Data Preparation**
+
+    - Buildings are used as an **approximation of Derna’s Residences** in the network analysis. \
+    - Relevant Flood extent, Buildings, Roads, Evacuation Centres & Medical Facilities data are extracted. \
+    - Data Pre- & Post-Flooding are verified through **high-resolution satellite images**. \
+    - Layers are clipped to the study area & saved with the correct **Libyan Projected Coordinates System** ***(EPSG:3197)***.\
+    - Centroids for Buildings, Evacuation Centres and Medical Facilities are created. 
+
+2. Accessibility Analysis
+
+    - [QNEAT3 Plugin](https://root676.github.io/) in QGIS, Network Analysis Toolbox utility [Iso-Areas as Polygons](https://root676.github.io/IsoAreaAlgs.html) (from Layer) are used to measure the accessibility of buildings to the Evacuation Centres & Medical Facilities.
+
+3. Visualising Data
+
+    - To easily visualise accessibility, categorised  polygons with color ramps representing accessibility were created. 
+    - We also used various [geoprocessing tools](https://docs.qgis.org/2.18/en/docs/user_manual/processing/vector_menu.html#geoprocessing-tools) like merge and dissolve, to group common data together for a more comprehensive finding.
+
+
+## Key Findings
+
+Derna’s Evacuation Centres & Medical Facilities are not very diaster-proof and accessibility decreases by a huge proportion even though only a small area of Derna City was destroyed by Storm Daniel.\
+Find out more in our [poster](https://smt201-grp5-ay2023-24t1.netlify.app/poster) and/or [report](https://smt201-grp5-ay2023-24t1.netlify.app/report)!

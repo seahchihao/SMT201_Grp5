@@ -232,7 +232,7 @@ From the table, we can also observe that around 40% of the building that were pr
 ![](/pictures/map_related_elements/medical table.png)
 :::
 
-From the accessibility map, even with the dam being about 1.5km away from two medical facilities, the region surrounding the dam is totally inaccessible after the flood due to the loss in road network within the area. \
+From the accessibility map, even with the dam being within 1.5km of two medical facilities, the region surrounding the dam is totally inaccessible after the flood due to the loss in road network within the area. \
 From the table, we can also observe that there is almost an aggregate of 40% loss of Derna City’s building’s accessibility to medical facilities, with the buildings either being destroyed or becoming isolated due to the flood that occurred, which is not ideal in such massive disaster.
 
 ## Results & Conclusion

@@ -11,7 +11,8 @@ css: styles.css
 
 ![](/pictures/logo.png){fig-align="center" width=45%}
 
-Welcome to Derna EvacuConnect!\
+<p style="text-align: center;">Welcome to Derna EvacuConnect!</p>
+
 Our project revolves around the theme of GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services of Derna City, Libya.
 
 ## Context

@@ -11,7 +11,7 @@ Casualties from disasters are tragic. Evacuation Centres & Medical facilities ex
 
 ### Objectives
 
-Based on our motivation, we have 3 main objective for our project:
+Based on our motivation, we have 2 main objective for our project:
 
 1. To find out the accessibility of Derna city’s evacuation centres and medical services. 
 

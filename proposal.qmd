@@ -3,19 +3,23 @@ title: "Project Proposal"
 ---
 ___
 
-### Motivation of project
+## Motivation & Objectives
 
-In the recent collapse of the Derna dam following intense rainfall, there was a high casualty count in the city of Derna due to a major flood. We decided to analyse and assess the accessibility of Derna City’s evacuation centres and medical services to evaluate the changes in the extent of such facilities effectiveness in rendering aid and medical services in an aftermath of a disaster such as the flood.
+### Motivation
 
-### Project objective
+Casualties from disasters are tragic. Evacuation Centres & Medical facilities exist to mitigate its impact, yet any disaster has the potential to reduce their effectiveness. Considering the high casualty count in the case of the flood of Derna City in September 2023, we decided to analyse and assess the accessibility of Derna City’s evacuation centres and medical services to evaluate the changes in the extent of such facilities effectiveness in rendering aid and medical services in an aftermath of a disaster such as the flood. 
 
-Based on our motivation, we have 2 main objective for our project:
+### Objectives
+
+Based on our motivation, we have 3 main objective for our project:
 
 1. To find out the accessibility of Derna city’s evacuation centres and medical services. 
 
 2. To find out how disaster-proof the accessibility to the evacuation centres and medical services are.
 
-### Data
+3. To determine if accessibility of these facilities are the main cause of high death and missing toll. 
+
+## Data
 
 - [OSM Libya](https://download.geofabrik.de/africa/libya.html) from Geofabrik
   - [Pre-flood OSM data (23-09-01)](https://download.geofabrik.de/africa/libya-230901-free.shp.zip)
@@ -29,10 +33,7 @@ Based on our motivation, we have 2 main objective for our project:
   - [Pre-flood Satellite Imagery](https://map.openaerialmap.org/#/22.67578125,32.697177359290635,8/square/1221022202/6502b83e0906de000167e696?_k=baen2a)
   - [Post-flood Satellite Imagery](https://map.openaerialmap.org/#/22.67578125,32.697177359290635,8/square/1221022202/65029d220906de000167e685?_k=tourdg)
 
-### Scope of work
-
-**HELP**
-
+## Scope of work
 
 - Selection of project focus and conducting literature review.
 - Preparing proposal and project website.
@@ -41,6 +42,6 @@ Based on our motivation, we have 2 main objective for our project:
 - Performing GIS analysis.
 - Preparing poster and project webpage.
 
-^ from prof (idk do we add on more description?)
+## Project schedule *(Gantt Chart)*
 
-### Project schedule
+![](/pictures/Project Gantt Chart.png)

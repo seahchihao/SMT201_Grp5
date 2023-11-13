@@ -7,14 +7,14 @@ format: html
 css: styles.css
 ---
 
-# Derna EvacuConnect {.test}
+# Derna EvacuConnect {.center_heading1}
 
 ![](/pictures/logo.png){fig-align="center" width=45%}
 
 Welcome to Derna EvacuConnect!\
 The project revolves around the theme of GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services of Derna City, Libya. More specifically pre- and post-flood caused by Storm Daniel on Sunday 10 September 2023.
 
-## Some Context
+## Context
 
 *On 10 September 2023...*
 
@@ -30,11 +30,11 @@ A **massive flood** that led to **large-scale damage** and destruction of buildi
 ```{=html}
 <script
   defer
-  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+  src="/index.js"
 ></script>
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+  href="/styles.css"
 />
 
 <style>
@@ -67,11 +67,11 @@ A **massive flood** that led to **large-scale damage** and destruction of buildi
 </style>
 <img-comparison-slider hover="hover">
   <figure slot="first" class="before">
-    <img width="100%" src="/pictures/preflood.png">
+    <img width="100%" src="/pictures/maps/pre-flood/preflood.png">
     <figcaption>Before</figcaption>
   </figure>
   <figure slot="second" class="after">
-    <img width="100%" src="/pictures/postflood.png">
+    <img width="100%" src="/pictures/maps/post-flood/postflood.png">
     <figcaption>After</figcaption>
   </figure>
 </img-comparison-slider>
@@ -111,5 +111,5 @@ Evacuation Centres & Medical facilities exist to mitigate its impact, yet any di
 
 ## Key Findings
 
-Derna’s Evacuation Centres & Medical Facilities are not very diaster-proof and accessibility decreases by a huge proportion even though only a small area of Derna City was destroyed by Storm Daniel.\
+Derna’s Evacuation Centres & Medical Facilities are not very disaster-proof and accessibility decreases by a huge proportion even though only a small area of Derna City was destroyed by Storm Daniel.\
 Find out more in our [poster](https://smt201-grp5-ay2023-24t1.netlify.app/poster) and/or [report](https://smt201-grp5-ay2023-24t1.netlify.app/report)!

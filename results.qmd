@@ -7,16 +7,17 @@ format: html
 
 
 
-## analysis & discussion?? ![](/pictures/NorthArrow.png){width=5%}
+## Analysis & Discussion ![](/pictures/NorthArrow.png){width=5%}
 
+### Road network {.center_heading3}
 ```{=html}
 <script
   defer
-  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+  src="/index.js"
 ></script>
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+  href="/styles.css"
 />
 
 <style>
@@ -49,25 +50,25 @@ format: html
 </style>
 <img-comparison-slider hover="hover">
   <figure slot="first" class="before">
-    <img width="100%" src="/pictures/Pre-flood roads (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/pre-flood/Pre-flood roads (Whole Derna).png">
     <figcaption>Pre-flood</figcaption>
   </figure>
   <figure slot="second" class="after">
-    <img width="100%" src="/pictures/Post-flood roads (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/post-flood/Post-flood roads (Whole Derna).png">
     <figcaption>Post-flood</figcaption>
   </figure>
 </img-comparison-slider>
 ```
 
-
+### Buildings {.center_heading3}
 ```{=html}
 <script
   defer
-  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+  src="/index.js"
 ></script>
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+  href="/styles.css"
 />
 
 <style>
@@ -100,26 +101,25 @@ format: html
 </style>
 <img-comparison-slider hover="hover">
   <figure slot="first" class="before">
-    <img width="100%" src="/pictures/Pre-flood buildings (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/pre-flood/Pre-flood buildings (Whole Derna).png">
     <figcaption>Pre-flood</figcaption>
   </figure>
   <figure slot="second" class="after">
-    <img width="100%" src="/pictures/Post-flood buildings (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/post-flood/Post-flood buildings (Whole Derna).png">
     <figcaption>Post-flood</figcaption>
   </figure>
 </img-comparison-slider>
 ```
 
-
-
+### Accessibility to Evacuation Centres {.center_heading3}
 ```{=html}
 <script
   defer
-  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+  src="/index.js"
 ></script>
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+  href="/styles.css"
 />
 
 <style>
@@ -152,26 +152,25 @@ format: html
 </style>
 <img-comparison-slider hover="hover">
   <figure slot="first" class="before">
-    <img width="100%" src="/pictures/Pre-flood Evac (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/pre-flood/Pre-flood Evac (Whole Derna).png">
     <figcaption>Pre-flood</figcaption>
   </figure>
   <figure slot="second" class="after">
-    <img width="100%" src="/pictures/Post-flood Evac (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/post-flood/Post-flood Evac (Whole Derna).png">
     <figcaption>Post-flood</figcaption>
   </figure>
 </img-comparison-slider>
 ```
 
-
-
+### Accessibility to Medical Facilities {.center_heading3}
 ```{=html}
 <script
   defer
-  src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"
+  src="/index.js"
 ></script>
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
+  href="/styles.css"
 />
 
 <style>
@@ -204,11 +203,11 @@ format: html
 </style>
 <img-comparison-slider hover="hover">
   <figure slot="first" class="before">
-    <img width="100%" src="/pictures/Pre-flood medical (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/pre-flood/Pre-flood medical (Whole Derna).png">
     <figcaption>Pre-flood</figcaption>
   </figure>
   <figure slot="second" class="after">
-    <img width="100%" src="/pictures/Post-flood medical (Whole Derna).png">
+    <img width="100%" src="/pictures/maps/post-flood/Post-flood medical (Whole Derna).png">
     <figcaption>Post-flood</figcaption>
   </figure>
 </img-comparison-slider>

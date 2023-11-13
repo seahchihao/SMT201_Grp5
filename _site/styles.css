@@ -1,3 +1,23 @@
-.test h1 {
+.center_heading1 h1 {
   text-align: center;
+}
+
+.center_heading3 h3 {
+  text-align: center;
+}
+
+img-comparison-slider {
+  visibility: hidden;
+}
+
+img-comparison-slider [slot='second'] {
+  display: none;
+}
+
+img-comparison-slider.rendered {
+  visibility: inherit;
+}
+
+img-comparison-slider.rendered [slot='second'] {
+  display: unset;
 }

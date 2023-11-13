@@ -10,11 +10,11 @@ Access our GitHub Repository here: [GitHub](https://github.com/seahchihao/SMT201
 Connect with us on LinkedIn (by clicking on our faces😊):
 
 <p style="text-align: center;">
-[![](/pictures/chihao.png){width=25%}](https://www.linkedin.com/in/seahchihao)
-[![](/pictures/marcus.png){width=25%}](https://www.linkedin.com/in/marcus-tan01)
-[![](/pictures/wilfred.png){width=25%}](https://www.linkedin.com/in/limziyuanwilfred/)
+[![](/pictures/mugshots/chihao.png){width=25%}](https://www.linkedin.com/in/seahchihao)
+[![](/pictures/mugshots/marcus.png){width=25%}](https://www.linkedin.com/in/marcus-tan01)
+[![](/pictures/mugshots/wilfred.png){width=25%}](https://www.linkedin.com/in/limziyuanwilfred/)
 </p>
 
 This whole project wouldn't be possible if not for the guidance and mentoring by the one and only Prof. Kam Tin Seong.
 
-[![](/pictures/prof_no_bg.png){fig-align="center" width=25%}](https://faculty.smu.edu.sg/profile/kam-tin-seong-486)
+[![](/pictures/mugshots/prof_no_bg.png){fig-align="center" width=25%}](https://faculty.smu.edu.sg/profile/kam-tin-seong-486)

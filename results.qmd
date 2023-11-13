@@ -7,7 +7,10 @@ format: html
 
 
 
-## Analysis & Discussion ![](/pictures/NorthArrow.png){width=5%}
+## Analysis & Discussion
+<p style="text-align: center;">
+![](/pictures/map_related_elements/MapLegend.png){width=45%} ![](/pictures/map_related_elements/NorthArrow.png){width=5%}
+</p>
 
 ### Road network {.center_heading3}
 ```{=html}
@@ -161,6 +164,9 @@ format: html
   </figure>
 </img-comparison-slider>
 ```
+::: {.column-margin}
+![](/pictures/map_related_elements/evac table.png)
+:::
 
 ### Accessibility to Medical Facilities {.center_heading3}
 ```{=html}
@@ -212,3 +218,6 @@ format: html
   </figure>
 </img-comparison-slider>
 ```
+::: {.column-margin}
+![](/pictures/map_related_elements/medical table.png)
+:::

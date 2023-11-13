@@ -4,9 +4,9 @@ format: html
 ---
 ## Short answers to objectives
 
-1. Accessibility of Derna city’s evacuation centres and medical services drops after the flood.
+1. Accessibility of Derna city’s evacuation centres and medical services **drops** after the flood.
 
-2. Accessibility to the evacuation centres and medical services are overall quite disaster proof except in areas near the river and a huge part of the flood extent.
+2. Accessibility to the evacuation centres and medical services are **not disaster-proof** in areas near the river and a huge part of the flood extent.
 
 
 ## Analysis & Discussion

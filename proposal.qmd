@@ -17,7 +17,6 @@ Based on our motivation, we have 3 main objective for our project:
 
 2. To find out how disaster-proof the accessibility to the evacuation centres and medical services are.
 
-3. To determine if accessibility of these facilities are the main cause of high death and missing toll. 
 
 ## Data
 

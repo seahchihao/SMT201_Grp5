@@ -30,8 +30,8 @@ Based on our motivation, we have 3 main objective for our project:
   - [Libya - 250m hexagonal grid and grid centres over city of Derna](/documents/Derna_city_250m_hexagon.zip)
   - [Flood impact assessment in Derna City, East Province, Libya](https://unosat.org/static/unosat_filesystem/3671/FL20230912LBY_SHP.zip)
 - [OpenAerialMap](https://openaerialmap.org/)
-  - [Pre-flood Satellite Imagery](https://oin-hotosm.s3.us-east-1.amazonaws.com/6502b20a0906de000167e691/0/6502b20a0906de000167e692.tif)
-  - [Post-flood Satellite Imagery](https://oin-hotosm.s3.us-east-1.amazonaws.com/6502980d0906de000167e681/0/6502980d0906de000167e682.tif)
+  - [Pre-flood Satellite Imagery (23-07-01)](https://oin-hotosm.s3.us-east-1.amazonaws.com/6502b20a0906de000167e691/0/6502b20a0906de000167e692.tif)
+  - [Post-flood Satellite Imagery (23-09-13)](https://oin-hotosm.s3.us-east-1.amazonaws.com/6502980d0906de000167e681/0/6502980d0906de000167e682.tif)
 
 ## Scope of work
 

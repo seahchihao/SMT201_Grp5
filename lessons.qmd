@@ -1,5 +1,5 @@
 ---
-title: "Lessons & Reflections"
+title: "Lessons Learnt"
 ---
 ## Lessons Learnt
 
@@ -8,6 +8,3 @@ title: "Lessons & Reflections"
 - It is important to diversify the locations of evacuation centres and medical services so that the impact of any disaster regardless of scale would not completely obliterate a city's emergency capabilities.
 
 - A clear lesson is that areas near water bodies such as rivers are often the most prone the heaviest flood damage. As such, evacuation centres and medical services should be situated a safe distance near such areas to further disaster proof of emergency facilities.
-
-## Reflections
-

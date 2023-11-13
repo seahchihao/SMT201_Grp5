@@ -4,7 +4,7 @@ project:
 website:
   favicon: "/pictures/favicon.png"
   navbar:
-    logo: "/pictures/mugshots/prof.png"
+    logo: "/pictures/favicon.png"
     title: "Derna EvacuConnect" 
     left:
       - text: Overview
@@ -14,7 +14,7 @@ website:
         href: results.qmd
       - text: Poster
         href: poster.qmd
-      - text: Lessons & Reflections
+      - text: Lessons Learnt
         href: lessons.qmd
       - about.qmd
 

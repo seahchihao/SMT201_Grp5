@@ -1,7 +1,6 @@
 ---
 title: "Project Proposal"
 ---
-___
 
 ## Motivation & Objectives
 

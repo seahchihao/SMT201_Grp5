@@ -26,4 +26,5 @@ format:
     theme:
       light: flatly
       dark: darkly
+    linkcolor: rgb(0, 153, 255)
     toc: true

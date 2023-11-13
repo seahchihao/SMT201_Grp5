@@ -15,7 +15,8 @@ website:
         href: results.qmd
       - text: Poster
         href: poster.qmd
-      - report.qmd
+      - text: Report
+        href: report.qmd
       - text: Lessons & Reflections
         href: lessons.qmd
       - about.qmd

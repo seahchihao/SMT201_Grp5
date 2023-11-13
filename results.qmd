@@ -8,8 +8,6 @@ format: html
 
 2. Accessibility to the evacuation centres and medical services are overall quite disaster proof except in areas near the river and a huge part of the flood extent.
 
-3. Drop in accessibility of evacuation centres and medical services are likely the main cause of high death and missing toll, as almost 40% of Derna City is no longer within reach of such facilities using the road network.
-
 
 ## Analysis & Discussion
 <p style="text-align: center;">

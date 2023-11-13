@@ -3,10 +3,6 @@ title: "Results and Discussion"
 format: html
 ---
 
-## Results
-
-
-
 ## Analysis & Discussion
 <p style="text-align: center;">
 ![](/pictures/map_related_elements/MapLegend.png){width=45%} ![](/pictures/map_related_elements/NorthArrow.png){width=5%}
@@ -230,3 +226,6 @@ Access between the East & West of Derna City was completely cut off as the massi
 :::
 
 Zooming into the epicenter of the flood, the doomed dam. The collapsed of the dam removed an important bridge that links the East and West of Derna City through a road network. From the accessibility map, even with the dam being about 1.5km away from two medical facilities, the region surrounding the dam is totally inaccessible after the flood due to the loss in road network within the area. From the table below, we can also observe that there is almost an aggregate of 40% loss of Derna City’s building’s accessibility to medical facilities, with the buildings either being destroyed or becoming isolated due to the flood that occurred.
+
+## Results & Conclusion
+

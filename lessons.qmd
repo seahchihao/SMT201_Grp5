@@ -1,5 +1,13 @@
 ---
-title: "Lesson learned"
+title: "Lessons & Reflections"
 ---
+## Lessons Learnt
 
-## idk hwelp
+- While efforts can be made to limit the impact of a disaster, the true scale of any disaster is difficult to predict, as per the case of Derna city where the flood was so devastating due to immense volume of water released from the burst dams.
+
+- It is important to diversify the locations of evacuation centres and medical services so that the impact of any disaster regardless of scale would not completely obliterate a city's emergency capabilities.
+
+- A clear lesson is that areas near water bodies such as rivers are often the most prone the heaviest flood damage. As such, evacuation centres and medical services should be situated a safe distance near such areas to further disaster proof of emergency facilities.
+
+## Reflections
+

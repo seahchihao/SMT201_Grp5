@@ -1,6 +1,7 @@
 ---
 title: "Results & Discussion"
 format: html
+css: styles.css
 ---
 ## Short answers to objectives
 

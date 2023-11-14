@@ -3,6 +3,11 @@ title: "SMT201 Group 5"
 date-modified: last-modified
 language: 
   title-block-modified: "LAST MODIFIFED DATE"
+author-title: authors
+authors:   
+  - Seah Chi Hao
+  - Marcus Tan
+  - Wilfred Lim Zi Yuan
 format: html
 css: styles.css
 ---

@@ -2,4 +2,7 @@
 title: "Methodology"
 ---
 
-## welps
+![](/pictures/Methodology Flowchart.png)
+
+The above flowchart shows the brief overview of the methodology of the project. \
+For a detail methodology, you can find it in our [report](https://smt201-grp5-ay2023-24t1.netlify.app/report)! 

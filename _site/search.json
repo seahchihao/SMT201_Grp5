@@ -81,7 +81,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "We are a group of three Year 2 Information Systems students from Singapore Management University (SMU) majoring in Smart City Management and Technology (SMT).\nIn this website, we discuss about our work done and insights gained from the project!\n\nConnect with us on LinkedIn (by clicking on our faces😊):\n\n  \n\nThis whole project wouldn’t be possible if not for the guidance and mentoring by the one and only Prof. Kam Tin Seong."
+    "text": "We are a group of three Year 2 Information Systems students from Singapore Management University (SMU) majoring in Smart City Management and Technology (SMT).\nIn this website, we discuss about our work done and insights gained from the project!\nAccess our GitHub Repository here: GitHub.\nConnect with us on LinkedIn (by clicking on our faces😊):\n\n  \n\nThis whole project wouldn’t be possible if not for the guidance and mentoring by the one and only Prof. Kam Tin Seong."
   },
   {
     "objectID": "about.html#more-coming-soon",
@@ -163,14 +163,14 @@
   {
     "objectID": "lessons.html",
     "href": "lessons.html",
-    "title": "Lessons Learnt",
+    "title": "Lessons & Reflections",
     "section": "",
     "text": "While efforts can be made to limit the impact of a disaster, the true scale of any disaster is difficult to predict, as per the case of Derna city where the flood was so devastating due to immense volume of water released from the burst dams.\nIt is important to diversify the locations of evacuation centres and medical services so that the impact of any disaster regardless of scale would not completely obliterate a city’s emergency capabilities.\nA clear lesson is that areas near water bodies such as rivers are often the most prone the heaviest flood damage. As such, evacuation centres and medical services should be situated a safe distance near such areas to further disaster proof of emergency facilities."
   },
   {
     "objectID": "lessons.html#lessons-learnt",
     "href": "lessons.html#lessons-learnt",
-    "title": "Lessons Learnt",
+    "title": "Lessons & Reflections",
     "section": "",
     "text": "While efforts can be made to limit the impact of a disaster, the true scale of any disaster is difficult to predict, as per the case of Derna city where the flood was so devastating due to immense volume of water released from the burst dams.\nIt is important to diversify the locations of evacuation centres and medical services so that the impact of any disaster regardless of scale would not completely obliterate a city’s emergency capabilities.\nA clear lesson is that areas near water bodies such as rivers are often the most prone the heaviest flood damage. As such, evacuation centres and medical services should be situated a safe distance near such areas to further disaster proof of emergency facilities."
   },
@@ -179,7 +179,7 @@
     "href": "lessons.html#reflections",
     "title": "Lessons & Reflections",
     "section": "Reflections",
-    "text": "Reflections"
+    "text": "Reflections\n\nThrough the project, we learnt that there are different perspectives and approaches when it comes to GIS analysis, in the case of how our peers had different project motivations and objectives and different kinds of maps and analysis were generated even though we were working on the same theme.\nGIS analysis is complex and comes with limitations. It takes significant effort to source and clean data. Data may be commercialised making it difficult to access, be even in foreign languages or simply not comprehensive enough for use, in the case of the lack of data on Libya and Derna prior to the flood\nBeyond using quantitative data, GIS is multidisciplinary whereby there is also social and political considerations, as per the case of the scale of the Derna flood also be attributed to a lack of proper management and where evacuation considerations would also take into account population demographics (i.e. disabilities etc.)\n\n\nPersonal Takeaway\n“GIS is a tedious task but when we are able to come up with an informative analysis which others can understand it is quite rewarding” - Wilfred\n“I love that GIS allow me to travel (virtually) to different places! When analysing the impact of the catastrophic flood in Derna City, Libya, I felt like I was in Derna during the flood and it helped me to empathise and spur me to be more socially conscious.” - Chi Hao\n“I love Prof. Kam and GIS!” - Marcus"
   },
   {
     "objectID": "results.html",
@@ -201,5 +201,19 @@
     "title": "Results & Discussion",
     "section": "",
     "text": "Accessibility of Derna city’s evacuation centres and medical services drops after the flood.\nAccessibility to the evacuation centres and medical services are not disaster-proof in areas near the river and a huge part of the flood extent."
+  },
+  {
+    "objectID": "methodology.html",
+    "href": "methodology.html",
+    "title": "Methodology",
+    "section": "",
+    "text": "The above flowchart shows the brief overview of the methodology of the project.\nFor a detail methodology, you can find it in our report!"
+  },
+  {
+    "objectID": "lessons.html#reflection",
+    "href": "lessons.html#reflection",
+    "title": "Lessons Learnt",
+    "section": "Reflection",
+    "text": "Reflection\n\nThrough the project, we learnt that there are different perspectives and approaches when it comes to GIS analysis, in the case of how our peers had different project motivations and objectives and different kinds of maps and analysis were generated even though we were working on the same theme.\nGIS analysis is complex and comes with limitations. It takes significant effort to source and clean data. Data may be commercialised making it difficult to access, be even in foreign languages or simply not comprehensive enough for use, in the case of the lack of data on Libya and Derna prior to the flood\nBeyond using quantitative data, GIS is multidisciplinary whereby there is also social and political considerations, as per the case of the scale of the Derna flood also be attributed to a lack of proper management and where evacuation considerations would also take into account population demographics (i.e. disabilities etc.)\n\n\nPersonal Takeaway\n“GIS is a tedious task but when we are able to come up with an informative analysis which others can understand it is quite rewarding” - Wilfred\n“I love that GIS allow me to travel (virtually) to different places! When analysing the impact of the catastrophic flood in Derna City, Libya, I felt like I was in Derna during the flood and it helped me to empathise and spur me to be more socially conscious.” - Chi Hao\n“I love Prof. Kam and GIS!” - Marcus"
   }
 ]

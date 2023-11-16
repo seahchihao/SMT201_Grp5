@@ -5,7 +5,7 @@ title: "About"
 We are a group of three Year 2 Information Systems students from Singapore Management University (SMU) majoring in Smart City Management and Technology (SMT).
 
 In this website, we discuss about our work done and insights gained from the project!\
-
+Access our GitHub Repository here: [GitHub](https://github.com/seahchihao/SMT201_Grp5).
 
 Connect with us on LinkedIn (by clicking on our faces😊):
 

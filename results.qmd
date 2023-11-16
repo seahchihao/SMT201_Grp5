@@ -9,7 +9,6 @@ css: styles.css
 
 2. Accessibility to the evacuation centres and medical services are **not disaster-proof** in areas near the river and a huge part of the flood extent.
 
-
 ## Analysis & Discussion
 <p style="text-align: center;">
 ![](/pictures/map_related_elements/MapLegend.png){width=45%} ![](/pictures/map_related_elements/NorthArrow.png){width=5%}

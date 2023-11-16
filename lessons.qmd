@@ -17,6 +17,8 @@ title: "Lessons & Reflections"
 
 - Beyond using quantitative data, GIS is multidisciplinary whereby there is also social and political considerations, as per the case of the scale of the Derna flood also be attributed to a lack of proper management and where evacuation considerations would also take into account population demographics (i.e. disabilities etc.)
 
+![](pictures/prof_happy_with_poster.jpg)
+
 #### <ins>Personal Takeaway</ins>
 
 *"GIS is a tedious task but when we are able to come up with an informative analysis which others can understand it is quite rewarding"* - Wilfred
@@ -24,5 +26,3 @@ title: "Lessons & Reflections"
 *"I love that GIS allow me to travel (virtually) to different places! When analysing the impact of the catastrophic flood in Derna City, Libya, I felt like I was in Derna during the flood and it helped me to empathise and spur me to be more socially conscious."* - Chi Hao
 
 *"I love Prof. Kam and GIS!"* - Marcus
-
-![](pictures/prof_happy_with_poster.jpg)

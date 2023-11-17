@@ -21,7 +21,7 @@ title: "Lessons & Reflections"
 
 #### <ins>Personal Takeaway</ins> *(from left to right of photo)*
 
-*"I love Prof. Kam and GIS!"* - Marcus
+*"I love Prof. Kam and GIS!"* - Marcus <span style="color:red;">EDIT</span>
 
 *"GIS is a tedious task but when we are able to come up with an informative analysis which others can understand it is quite rewarding."* - Wilfred
 

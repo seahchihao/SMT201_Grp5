@@ -259,4 +259,10 @@ Many buildings near the river and north part of Derna City were completely destr
 
 ### Conclusion
 
+In response to our [Objectives](/proposal.html#objectives):
+
+1. Accessibility of Derna city’s evacuation centres and medical services drops after the flood.
+
+2. Accessibility to the evacuation centres and medical services are not disaster-proof in areas near the river and a huge part of the flood extent.
+
 While emergency facilities (evacuation centres and medical facilities) should ideally be accessible to all, there will undoubtedly be areas with better and poorer accessibility due to their relative distance from such centres and facilities. However, through usage of GIS software, severely underserved areas can be better identified, and improvements in accessibility to such areas can be made.

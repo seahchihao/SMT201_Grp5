@@ -9,7 +9,7 @@ css: styles.css
 
 2. Accessibility to the evacuation centres and medical services are **not disaster-proof** in areas near the river and a huge part of the flood extent.
 
-## Analysis & Discussion
+## Analysis Results
 <p style="text-align: center;">
 ![](/pictures/map_related_elements/MapLegend.png){width=45%} ![](/pictures/map_related_elements/NorthArrow.png){width=5%}
 </p>
@@ -66,7 +66,7 @@ The pre-flood maps below are satellite imagery of Derna City on *01 July 2023* a
 </img-comparison-slider>
 ```
 
-Road networks connecting the East and West of Derna City was completely cut off as the massive flood waters destroyed the road networks near the river, evident from the satellite imagery. This would likely reduced the accessibility of evacuation centres and medical facilities between the East from the West part of Derna City.
+Road networks connecting the East and West of Derna City were completely cut off as the massive flood waters destroyed the road networks near the river, evident from the satellite imagery. This would likely reduce the accessibility of evacuation centres and medical facilities between the East from the West part of Derna City. 
 
 ### Buildings {.center_heading3}
 ```{=html}
@@ -119,7 +119,7 @@ Road networks connecting the East and West of Derna City was completely cut off 
 </img-comparison-slider>
 ```
 
-Many buildings near the river and north part of Derna City are completely destroyed after the flood. Evident from the amount of bare land observed from the satellite imagery post-flood as compared to pre-flood. Derna City's accessibility to emergency facilities especially in these areas would be very important and the accessibility is likely to drop due to a reduce in number of buildings (being demand points served by evacuation centres and medical facilities).
+Many buildings near the river and north part of Derna City were completely destroyed after the flood. Evident from the amount of bare land observed from the satellite imagery post-flood as compared to pre-flood. Derna City’s accessibility to emergency facilities, especially in these areas, would be very important and accessibility is likely to drop due to a reduction in the number of buildings (being demand points served by evacuation centres and medical facilities). 
 
 ### Accessibility to Evacuation Centres {.center_heading3}
 ```{=html}
@@ -177,8 +177,8 @@ Many buildings near the river and north part of Derna City are completely destro
 
 - For evacuation centers, we isolated out schools, universities and places of worship to be used for our analysis. (More details can be found in the methodology section of our [report](/report.html)!) \
 - Access between the East and West of Derna City was completely cut off as the massive flood waters destroyed the bridges connecting both sides, also observed in the [road network comparison](/results.html#road-network) shown above. This reduced the overall accessibility of evacuation centres between the East and the West part of Derna City. \
-- From the accessibility map, initially, areas surrounding the river was within 1km from an evacuation centre. However, after the flood, it is no longer accessible due to the destroyed bridges which are part of Derna City’s road network. \
-- From the table, we can also observe that around 40% of the building that were present are either destroyed, or became inaccessible to evacuation centres after the flood.
+- From the accessibility map, initially, areas surrounding the river were within 1km from an evacuation centre. However, after the flood, it is no longer accessible due to the destroyed bridges which are part of Derna City’s road network.
+- From the table, we can also observe that around 40% of the buildings that were present are either destroyed or became inaccessible to evacuation centres after the flood.
 
 ### Accessibility to Medical Facilities {.center_heading3}
 ```{=html}
@@ -239,9 +239,9 @@ Many buildings near the river and north part of Derna City are completely destro
 - From the accessibility map, even with the dam being within 1.5km of two medical facilities, the region surrounding the dam is totally inaccessible after the flood due to the loss in road network within the area. \
 - From the table, we can also observe that there is almost an aggregate of 40% loss of Derna City’s building’s accessibility to medical facilities, with the buildings either being destroyed or becoming isolated due to the flood that occurred, which is not ideal in such massive disaster.
 
-## Results & Conclusion
+## Discussion & Conclusion
 
-### Results
+### Discussion
 
 ***State of Buildings***
 
